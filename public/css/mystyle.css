@@ -73,8 +73,6 @@ ul{
 	margin:20px 0;
 }
 
-
-
 .gmail-menu li{
 	padding:0 0 5px 0;
 }
@@ -91,3 +89,11 @@ ul{
 .time{
 	margin-right:15px;
 }
+
+
+/* Jquery */
+
+.highlight{
+	background-color: yellow;
+}
+
